@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Home changed
 id: home
 permalink: /
 ---
