@@ -143,3 +143,8 @@ code {
   color: #ccc;
   cursor: help;
 }
+
+li.title {
+  list-style-type: none;
+  margin-left: -1em; 
+}
