@@ -154,8 +154,8 @@ ul{
   &:before{
       content:"";
       display: inline-block;
-      width: 2px;
-      background: red;
+      width: 1px;
+      background: gray;
       position: absolute;
       left:3px;
       top:5px;
@@ -170,10 +170,10 @@ ul{
       display: inline-block;
       width: 8px;
       height: 8px;
-      background: red;
+      background: gray;
       position: absolute;
       left:0;
-      top:5px;
+      top:10px;
       border-radius: 10px;
     }
   }
