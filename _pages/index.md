@@ -7,13 +7,19 @@ permalink: /
 
 <img src="https://raw.githubusercontent.com/senseofeternity/drozdov/master/_pages/image-2.png" alt="photo" width="200"/>
 
-**Master's student in Mathematical Physics** 
-✉️ [pavel_drozdov@etu.u-bourgogne.fr](mailto:pavel_drozdov@etu.u-bourgogne.fr)
+# Pavel Drozdov
+Master's student in Mathematical Physics
+[pavel_drozdov@etu.u-bourgogne.fr](mailto:pavel_drozdov@etu.u-bourgogne.fr) | Dijon, France
 
-📍 Dijon, France
-
-
-
+## Education 
+- ### M.Sc. in Mathematical Physics / 2021 – present
+	**Université Bourgogne Franche-Comté**, Dijon, France.
+	M1 Dissertation: Algebraic Structure of Conformal Field Theory. 
+	M2 Dissertation: Celestial Conformal Field Theory and its Generalizations.
+	Instructor: Taro Kimura
+* ### B.Sc. in Physics / 2017 – 2021
+	**Peter the Great St. Petersburg Polytechnic University**, St. Petersburg, Russia.
+	Bachelor thesis: Proper Time in the Homogeneous Model of the Universe with a Scalar Field.
 
 
 # Welcome! 🌱
@@ -23,10 +29,8 @@ permalink: /
 </p>
 
 
-## new text 
 
-$ f(x) $
-$$ f(x) $$ 
+
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
