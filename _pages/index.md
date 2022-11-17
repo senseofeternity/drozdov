@@ -19,8 +19,11 @@ Master's student in Mathematical Physics <br>
 ## Education 
 - ### M.Sc. in Mathematical Physics / 2021 – present
 	**Université Bourgogne Franche-Comté**, Dijon, France.
+	
 	M1 Dissertation: Algebraic Structure of Conformal Field Theory. 
+	
 	M2 Dissertation: Celestial Conformal Field Theory and its Generalizations.
+	
 	Instructor: Taro Kimura
 * ### B.Sc. in Physics / 2017 – 2021
 	**Peter the Great St. Petersburg Polytechnic University**, St. Petersburg, Russia.
