@@ -17,7 +17,7 @@ Master's student in Mathematical Physics <br>
 </p>
 
 # Education 
-- ## M.Sc. in Mathematical Physics / 2021 – present
+- ### M.Sc. in Mathematical Physics / 2021 – present
 	**Université Bourgogne Franche-Comté**, Dijon, France. <br>
 	M1 Dissertation: Algebraic Structure of Conformal Field Theory. <br>
 	M2 Dissertation: Celestial Conformal Field Theory and its Generalizations.<br>
