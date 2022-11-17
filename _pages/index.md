@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Home changed
+title: Home 
 id: home
 permalink: /
 ---
+### Master's student in Mathematical Physics
+✉️ [pavel_drozdov@etu.u-bourgogne.fr](mailto:pavel_drozdov@etu.u-bourgogne.fr)
+📍 Dijon, France
+
 
 # Welcome! 🌱
 
