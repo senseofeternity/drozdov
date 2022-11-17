@@ -4,13 +4,17 @@ title: Home
 id: home
 permalink: /
 ---
+<p align="center"> 
 
-<img src="https://raw.githubusercontent.com/senseofeternity/drozdov/master/_pages/image-2.png" alt="photo" width="200"/>
+<img src="https://raw.githubusercontent.com/senseofeternity/drozdov/master/_pages/image-2.png" alt="photo" width="200"/> <br>
 
-# Pavel Drozdov
 
-Master's student in Mathematical Physics
+# Pavel Drozdov <br>
+
+Master's student in Mathematical Physics <br>
 [pavel_drozdov@etu.u-bourgogne.fr](mailto:pavel_drozdov@etu.u-bourgogne.fr) | Dijon, France
+
+</p>
 
 ## Education 
 - ### M.Sc. in Mathematical Physics / 2021 – present
