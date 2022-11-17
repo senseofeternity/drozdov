@@ -8,6 +8,7 @@ permalink: /
 <img src="https://raw.githubusercontent.com/senseofeternity/drozdov/master/_pages/image-2.png" alt="photo" width="200"/>
 
 # Pavel Drozdov
+
 Master's student in Mathematical Physics
 [pavel_drozdov@etu.u-bourgogne.fr](mailto:pavel_drozdov@etu.u-bourgogne.fr) | Dijon, France
 
