@@ -4,9 +4,16 @@ title: Home
 id: home
 permalink: /
 ---
-### Master's student in Mathematical Physics
+
+<img src="_pages/image-2.png" alt="photo" width="200"/>
+
+Master's student in Mathematical Physics
 ✉️ [pavel_drozdov@etu.u-bourgogne.fr](mailto:pavel_drozdov@etu.u-bourgogne.fr)
+
 📍 Dijon, France
+
+
+
 
 
 # Welcome! 🌱
