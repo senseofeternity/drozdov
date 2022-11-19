@@ -9,9 +9,9 @@ $font-family: "Lucida Console", Monaco, monospace;
 body {
   box-sizing: content-box;
   font-family: $font-family;
-  margin: -1 auto;
-  line-height: 1;
-  padding: 6vh 6vw;
+  margin: 0 auto;
+  line-height: 1.7;
+  padding: 4vh 6vw;
   overflow-x: hidden;
   color: $color-text;
   font-size: 1rem;
@@ -21,6 +21,7 @@ body {
     font-size: 1.2rem;
   }
 }
+
 
 time {
   display: block;
