@@ -14,8 +14,8 @@ permalink: /
 </p> 
 
 Table of Contents
-1. [Education](#Education)
-2. [Welcome](#Welcome)
+1. [Education](###Education)
+2. [Welcome](#Welcome!)
 
 ### Education 
 - #### M.Sc. in Mathematical Physics / 2021 – present
@@ -47,7 +47,7 @@ Lists of my publications: [Scopus](https://www.scopus.com/authid/detail.uri?aut
 ‣ ISITE-BFC scholarship (Université Bourgogne Franche-Comté, 2021 – 2022) <br>
 ‣ Stipend for good academic performance given by Peter the Great St. Petersburg Polytechnic University (2018-2021)
 
-# Welcome! 🌱
+# Welcome! 
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
