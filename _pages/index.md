@@ -6,9 +6,11 @@ permalink: /
 ---
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/senseofeternity/drozdov/master/_pages/image-2.png" alt="photo" width="200"/> <br/>
-<h2> Pavel Drozdov </h2>  <br/> 
-<p> Master's student in Mathematical Physics </p> <br/>
-<a href="mailto:pavel_drozdov@etu.u-bourgogne.fr">pavel_drozdov@etu.u-bourgogne.fr</a> | Dijon, France <br>  
+<center>
+<h2> Pavel Drozdov </h2>   
+<p> Master's student in Mathematical Physics </p>  
+<a href="mailto:pavel_drozdov@etu.u-bourgogne.fr">pavel_drozdov@etu.u-bourgogne.fr</a> | Dijon, France  
+</center> 
 </p> 
 
 # Education 
