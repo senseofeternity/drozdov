@@ -13,9 +13,9 @@ permalink: /
 </center> 
 </p> 
 
-Table of Contents
-1. [Education](###Education)
-2. [Welcome](#Welcome!)
+> #### Table of Contents
+> 1. [Education](###Education)
+> 2. [Welcome](#Welcome!)
 
 ### Education 
 - #### M.Sc. in Mathematical Physics / 2021 – present
