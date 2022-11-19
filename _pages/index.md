@@ -13,6 +13,9 @@ permalink: /
 </center> 
 </p> 
 
+### Table of Contents
+- [Education](#Education)
+- [Welcome](#Welcome)
 # Education 
 - #### M.Sc. in Mathematical Physics / 2021 – present
 	**Université Bourgogne Franche-Comté, Dijon**, France. <br>
