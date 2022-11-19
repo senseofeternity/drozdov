@@ -16,6 +16,7 @@ permalink: /
 ### Table of Contents
 1. [Education](#Education)
 2. [Welcome](#Welcome)
+
 # Education 
 - #### M.Sc. in Mathematical Physics / 2021 – present
 	**Université Bourgogne Franche-Comté, Dijon**, France. <br>
@@ -28,6 +29,12 @@ permalink: /
 * ### Secondary general education / 2006 – 2017
 	**Gymnasium #498**, St. Petersburg, Russia.
 
+
+# Research Interests
+**Current**: <p id="ip2"> Conformal Field Theory </p>
+<p id="ip2"> AdS/CFT </p>  
+<p id="ip2"> Celestial CFT</p> 
+<p id="ip4"> w-symmetry </p>
 
 # Welcome! 🌱
 
