@@ -18,7 +18,6 @@ Table of Contents
 2. [Welcome](#Welcome)
 
 ### Education 
----- 
 - #### M.Sc. in Mathematical Physics / 2021 – present
 	**Université Bourgogne Franche-Comté, Dijon**, France. <br>
 	M1 Dissertation: Algebraic Structure of Conformal Field Theory. <br>
@@ -29,12 +28,12 @@ Table of Contents
 	Bachelor thesis: Proper Time in the Homogeneous Model of the Universe with a Scalar Field.
 * #### Secondary general education / 2006 – 2017
 	**Gymnasium #498**, St. Petersburg, Russia.
-
-
+---- 
 ### Research Interests
 • **Current**: Conformal Field Theory, AdS/CFT, Celestial CFT,  w-symmetry. <br>
 • **Former**: Quantization of Gauge Sytems, Quantum Cosmology 
 
+---- 
 ### Publications
 Lists of my publications: [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57220038175) | [iNSPIRE](https://inspirehep.net/authors/1829928) | [Google Scholar](https://scholar.google.com/citations?user=8zEvMU4AAAAJ&hl=en)
 
