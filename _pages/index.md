@@ -17,7 +17,7 @@ Table of Contents
 1. [Education](#Education)
 2. [Welcome](#Welcome)
 
-# Education 
+## Education 
 - #### M.Sc. in Mathematical Physics / 2021 – present
 	**Université Bourgogne Franche-Comté, Dijon**, France. <br>
 	M1 Dissertation: Algebraic Structure of Conformal Field Theory. <br>
@@ -30,18 +30,18 @@ Table of Contents
 	**Gymnasium #498**, St. Petersburg, Russia.
 
 
-# Research Interests
+## Research Interests
 • **Current**: Conformal Field Theory, AdS/CFT, Celestial CFT,  w-symmetry. <br>
 • **Former**: Quantization of Gauge Sytems, Quantum Cosmology 
 
-# Publications
+## Publications
 Lists of my publications: [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57220038175) | [iNSPIRE](https://inspirehep.net/authors/1829928) | [Google Scholar](https://scholar.google.com/citations?user=8zEvMU4AAAAJ&hl=en)
 
 [1] Gorobey, N.; Lukyanenko, A.; Drozdov, P. Energy Conservation Law in the Closed Universe and a Concept of the Proper Time. _Universe_ **2020**, _6_, 174, [Link](https://doi.org/10.3390/universe6100174) (Open access).
 
 [2] Drozdov, P.; Lukyanenko, A. The Density of Matter as a Cosmic Time in the Friedmann’s Expanding Universe. _A volume of XLVIII "Week of Science SPbPU" conference proceedings._ **2019**, pp. 245–247. (In Russian).
 
-# Honors/Awards
+## Honors/Awards
 ‣ Math4Phys scholarship (Université Bourgogne Franche-Comté, 2022 – Present) <br>
 ‣ ISITE-BFC scholarship (Université Bourgogne Franche-Comté, 2021 – 2022) <br>
 ‣ Stipend for good academic performance given by Peter the Great St. Petersburg Polytechnic University (2018-2021)
