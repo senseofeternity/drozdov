@@ -33,7 +33,7 @@ Table of Contents
 • **Current**: Conformal Field Theory, AdS/CFT, Celestial CFT,  w-symmetry. <br>
 • **Former**: Quantization of Gauge Sytems, Quantum Cosmology 
 
----- 
+----  
 ### Publications
 Lists of my publications: [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57220038175) | [iNSPIRE](https://inspirehep.net/authors/1829928) | [Google Scholar](https://scholar.google.com/citations?user=8zEvMU4AAAAJ&hl=en)
 
@@ -56,7 +56,7 @@ Lists of my publications: [Scopus](https://www.scopus.com/authid/detail.uri?aut
 
 
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+1This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
 The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
