@@ -28,6 +28,7 @@ Table of Contents
 	Bachelor thesis: Proper Time in the Homogeneous Model of the Universe with a Scalar Field.
 * #### Secondary general education / 2006 – 2017
 	**Gymnasium #498**, St. Petersburg, Russia.
+
 ---- 
 ### Research Interests
 • **Current**: Conformal Field Theory, AdS/CFT, Celestial CFT,  w-symmetry. <br>
