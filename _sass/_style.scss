@@ -56,6 +56,10 @@ blockquote {
   }
 }
 
+#p2{
+             display:inline;
+          }
+
 hr {
   width: 100%;
   border: 0;
@@ -179,4 +183,12 @@ ul{
       border-radius: 10px;
     }
   }
+}
+
+#ip2 {
+    border-radius: 25px;
+    border: 2px solid #609;
+    padding: 20px; 
+    width: 200px;
+    height: 15px;    
 }

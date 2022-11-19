@@ -32,7 +32,7 @@ permalink: /
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-
+<p id="ip2"> ddd </p> <p id="ip2"> ddd </p>  <p id="ip2"> ddd11 </p> <p id="ip4"> ddd </p>
 
 
 
