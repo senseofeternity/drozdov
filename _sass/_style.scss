@@ -11,10 +11,10 @@ body {
   font-family: $font-family;
   margin: -1 auto;
   line-height: 1;
-  padding: 3vh 6vw;
+  padding: 6vh 6vw;
   overflow-x: hidden;
   color: $color-text;
-  font-size: 12pt;
+  font-size: 1rem;
   max-width: 63em;
 
   @media (min-width: 820px) {
