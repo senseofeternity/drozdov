@@ -31,10 +31,11 @@ Table of Contents
 
 
 # Research Interests
-**Current**: <p id="ip2"> Conformal Field Theory </p>
+**Current**: 
+<p id="ip2"> Conformal Field Theory </p>
 <p id="ip2"> AdS/CFT </p>  
 <p id="ip2"> Celestial CFT</p> 
-<p id="ip4"> w-symmetry </p>
+<p id="ip2"> w-symmetry </p>
 
 # Welcome! 🌱
 
