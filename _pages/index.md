@@ -13,7 +13,7 @@ permalink: /
 </center> 
 </p> 
 
-### Table of Contents
+Table of Contents
 1. [Education](#Education)
 2. [Welcome](#Welcome)
 
