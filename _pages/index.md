@@ -31,11 +31,20 @@ Table of Contents
 
 
 # Research Interests
-**Current**: 
-<p id="ip2"> Conformal Field Theory </p>
-<p id="ip2"> AdS/CFT </p>  
-<p id="ip2"> Celestial CFT</p> 
-<p id="ip2"> w-symmetry </p>
+> **Current**: Conformal Field Theory, AdS/CFT, Celestial CFT,  w-symmetry.
+> **Former**: Quantization of Gauge Sytems, Quantum Cosmology 
+
+# Publications
+Lists of my publications: [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57220038175) | [iNSPIRE](https://inspirehep.net/authors/1829928) | [Google Scholar](https://scholar.google.com/citations?user=8zEvMU4AAAAJ&hl=en)
+
+[1] Gorobey, N.; Lukyanenko, A.; Drozdov, P. Energy Conservation Law in the Closed Universe and a Concept of the Proper Time. _Universe_ **2020**, _6_, 174, [Link](https://doi.org/10.3390/universe6100174) (Open access).
+
+[2] Drozdov, P.; Lukyanenko, A. The Density of Matter as a Cosmic Time in the Friedmann’s Expanding Universe. _A volume of XLVIII "Week of Science SPbPU" conference proceedings._ **2019**, pp. 245–247. (In Russian).
+
+# Honors/Awards
+> Math4Phys scholarship (Université Bourgogne Franche-Comté, 2022 – Present)
+> ISITE-BFC scholarship (Université Bourgogne Franche-Comté, 2021 – 2022)
+> Stipend for good academic performance given by Peter the Great St. Petersburg Polytechnic University (2018-2021)
 
 # Welcome! 🌱
 
