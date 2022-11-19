@@ -31,7 +31,7 @@ Table of Contents
 
 
 # Research Interests
-• **Current**: Conformal Field Theory, AdS/CFT, Celestial CFT,  w-symmetry.
+• **Current**: Conformal Field Theory, AdS/CFT, Celestial CFT,  w-symmetry. <br>
 • **Former**: Quantization of Gauge Sytems, Quantum Cosmology 
 
 # Publications
@@ -42,9 +42,9 @@ Lists of my publications: [Scopus](https://www.scopus.com/authid/detail.uri?aut
 [2] Drozdov, P.; Lukyanenko, A. The Density of Matter as a Cosmic Time in the Friedmann’s Expanding Universe. _A volume of XLVIII "Week of Science SPbPU" conference proceedings._ **2019**, pp. 245–247. (In Russian).
 
 # Honors/Awards
-• Math4Phys scholarship (Université Bourgogne Franche-Comté, 2022 – Present)
-• ISITE-BFC scholarship (Université Bourgogne Franche-Comté, 2021 – 2022)
-• Stipend for good academic performance given by Peter the Great St. Petersburg Polytechnic University (2018-2021)
+‣ Math4Phys scholarship (Université Bourgogne Franche-Comté, 2022 – Present) <br>
+‣ ISITE-BFC scholarship (Université Bourgogne Franche-Comté, 2021 – 2022) <br>
+‣ Stipend for good academic performance given by Peter the Great St. Petersburg Polytechnic University (2018-2021)
 
 # Welcome! 🌱
 
