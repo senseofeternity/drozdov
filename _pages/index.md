@@ -18,6 +18,7 @@ Table of Contents
 2. [Welcome](#Welcome)
 
 ### Education 
+---- 
 - #### M.Sc. in Mathematical Physics / 2021 – present
 	**Université Bourgogne Franche-Comté, Dijon**, France. <br>
 	M1 Dissertation: Algebraic Structure of Conformal Field Theory. <br>
