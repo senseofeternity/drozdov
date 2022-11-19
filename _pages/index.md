@@ -15,13 +15,15 @@ permalink: /
 
 # Education 
 - #### M.Sc. in Mathematical Physics / 2021 – present
-	Université Bourgogne Franche-Comté, Dijon, France. <br>
+	**Université Bourgogne Franche-Comté, Dijon**, France. <br>
 	M1 Dissertation: Algebraic Structure of Conformal Field Theory. <br>
 	M2 Dissertation: Celestial Conformal Field Theory and its Generalizations.<br>
 	Instructor: Taro Kimura
 * ### B.Sc. in Physics / 2017 – 2021
 	**Peter the Great St. Petersburg Polytechnic University**, St. Petersburg, Russia.
 	Bachelor thesis: Proper Time in the Homogeneous Model of the Universe with a Scalar Field.
+* ### Secondary general education / 2006 – 2017
+	**Gymnasium #498**, St. Petersburg, Russia.
 
 
 # Welcome! 🌱
